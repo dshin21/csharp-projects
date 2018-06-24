@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roll_a_zombie", "Assembly-CSharp.csproj", "{DE045134-EE38-0F82-483B-099522DAB01C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE045134-EE38-0F82-483B-099522DAB01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE045134-EE38-0F82-483B-099522DAB01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE045134-EE38-0F82-483B-099522DAB01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE045134-EE38-0F82-483B-099522DAB01C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
